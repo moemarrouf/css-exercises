@@ -1,3 +1,5 @@
+
+
 body {
   max-width: 600px;
   margin: 0 auto;
@@ -7,8 +9,8 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 32px;
+  margin: 12px;
 }
 
 .two {
@@ -23,6 +25,7 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  margin-top: 32px;
+  padding: 32px;
+  margin-left: 100%;
 }
